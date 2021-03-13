@@ -1,6 +1,3 @@
-### About Me
-
-
 ### Scientific Website
 
 [Annual Reviews](https://www.annualreviews.org/)
